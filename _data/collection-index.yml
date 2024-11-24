@@ -962,3 +962,8 @@
   contact: https://github.com/davzucky/devcontainers-features-wolfi/issues
   repository: https://github.com/davzucky/devcontainers-features-wolfi
   ociReference: ghcr.io/davzucky/devcontainers-features-wolfi  
+- name: devcontainer features by ebizbase
+  maintainer: eBizBase
+  contact: https://github.com/ebizbase/dev-infras/issues
+  repository: https://github.com/ebizbase/dev-infras
+  ociReference: ghcr.io/ebizbase/devcontainers-features
